@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # Table of contents
 
 - Files within scope of audit
